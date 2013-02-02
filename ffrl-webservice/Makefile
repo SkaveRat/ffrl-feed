@@ -27,7 +27,7 @@ PKG_REV:=eb2afeca552f3a4e5aeff5a02ad67e04241c0347
 
 PKG_SOURCE:=$(PKG_NAME)-$(PKG_REV).tar.gz
 PKG_MD5SUM:=always-use-git
-PKG_SOURCE_URL:=git://github.com/ffrl/webservice.git
+PKG_SOURCE_URL:=git://github.com/SkaveRat/webservice.git
 PKG_SOURCE_SUBDIR:=$(PKG_NAME)-$(PKG_VERSION)
 PKG_SOURCE_VERSION:=$(PKG_REV)
 PKG_SOURCE_PROTO:=git
